@@ -1,0 +1,19 @@
+.output
+---output
+.py
+---1.Even Lines EXE.py
+---1.File Opener.py
+---2.File Reader.py
+---2.Line Numbers EXE.py
+---3.File Manipulator EXE.py
+---3.File Writer.py
+---4.Directory Traversal EXE.py
+---4.File Delete.py
+---5.Word Count.py
+.txt
+---file.txt
+---input.txt
+---my_first_file.txt
+---numbers.txt
+---text.txt
+---words.txt
